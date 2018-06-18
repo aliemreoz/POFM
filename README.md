@@ -1,2 +1,3 @@
-# C Application - POFM
+# C Application
+# POFM
 Portable File Manipulator
