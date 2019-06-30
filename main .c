@@ -76,36 +76,7 @@ void main() {
             {
                 break;
             }
-        else if (strcmp("help-n",command)==0)
-            {
-                printf("hepinizi sikim\n");
-            }
-        else if (strcmp("help-d",command)==0)
-            {
-                printf("hepinizi sikim2\n");
-            }
-        else if (strcmp("help-r",command)==0)
-            {
-                printf("hepinizi sikim3\n");
-            }
-        else if (strcmp("help-c",command)==0)
-            {
-                printf("hepinizi sikim4\n");
-            }
-        else if (strcmp("help-m",command)==0)
-            {
-                printf("hepinizi sikim4\n");
-            }
-        else if (strcmp("help-ta",command)==0)
-            {
-                printf("hepinizi sikim4\n");
-            }
-        else if (strcmp("help-tr",command)==0)
-            {
-                printf("hepinizi sikim4\n");
-            }
-
-        else
+	else
             {
             printf("Command not recognized. Please give a command from the TABLE.\n\n");
             }
